@@ -42,7 +42,7 @@ namespace myBank
             };
             vendedorLazaro.Bonificacao = vendedorLazaro.Salario;
 
-            ContaCorrente contaDaKarol = new ContaCorrente("Karolaine Bonifácio", "111.222.333-55", 789, 2000, vendedorLazaro);
+            ContaCorrente contaDaKarol = new ContaCorrente("Karolaine Bonifácio Teodoro", "111.222.333-55", 789, 2000, vendedorLazaro);
             ContaCorrente contaDoKaique = new ContaCorrente("Kaique Bonifácio", "111.222.333-66", 987, 1200, vendedorLuciano);
             ContaCorrente contaDaKatlin = new ContaCorrente("Katlin Bonifácio", "111.222.333-77", 988, 1500, vendedorNea);
             
