@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-objeto-03\meuBanco\obj\Debug\netcoreapp3.1\meuBanco.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-objeto-03\meuBanco\obj\Debug\netcoreapp3.1\meuBanco.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-objeto-03\meuBanco\obj\Debug\netcoreapp3.1\meuBanco.AssemblyInfo.cs
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-objeto-03\meuBanco\obj\Debug\netcoreapp3.1\meuBanco.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-objeto-03\meuBanco\bin\Debug\netcoreapp3.1\meuBanco.exe
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-objeto-03\meuBanco\bin\Debug\netcoreapp3.1\meuBanco.deps.json
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-objeto-03\meuBanco\bin\Debug\netcoreapp3.1\meuBanco.runtimeconfig.json
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-objeto-03\meuBanco\bin\Debug\netcoreapp3.1\meuBanco.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-objeto-03\meuBanco\bin\Debug\netcoreapp3.1\meuBanco.dll
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-objeto-03\meuBanco\bin\Debug\netcoreapp3.1\meuBanco.pdb
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-objeto-03\meuBanco\obj\Debug\netcoreapp3.1\meuBanco.dll
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-objeto-03\meuBanco\obj\Debug\netcoreapp3.1\meuBanco.pdb
+C:\Users\ACER\Desktop\ETE FMC\Tarefas-ETE\2021\git\Orientacao-a-objeto-03\meuBanco\obj\Debug\netcoreapp3.1\meuBanco.genruntimeconfig.cache
